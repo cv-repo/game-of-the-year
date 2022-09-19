@@ -1,6 +1,6 @@
 <h1>The Game Of The Year</h1>
 <h2>Four player online card game made with Nodejs, Express, React and SocketIO</h2>
-<h3>Game based on the "Cheat" card game with the style of "La velada del año" (spanish streamer event)<h3>
+Game based on the "Cheat" card game with the style of "La velada del año" (spanish streamer event)
 
 ## Screenshots
 <img src="screenshots/1.png"  width="60%" align="center" />
